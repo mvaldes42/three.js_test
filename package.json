@@ -1,0 +1,13 @@
+{
+  "name": "three.js_test",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "repository": "git@github.com:mvaldes42/three.js_test.git",
+  "author": "Marie-Lou Valdes",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  }
+}
